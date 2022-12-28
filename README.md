@@ -43,5 +43,8 @@ joined 전략으로 Entity를 만들고 다른 테이블과 대부분 단방향 
 재능기부 글작성 및 마이페이지에서 수정 삭제를 만들어 CRUD를 구현하였습니다.<br>
 <br>
 <br>
+# <br>
+<br>
+<br>
 # ERD
 ![ERD](./erd.png)
